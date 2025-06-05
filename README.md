@@ -1,4 +1,4 @@
-Component used:
+Components used:
 Voltage Source
 4 Resistor
 2 Capacitor
